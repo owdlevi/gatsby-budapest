@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-budapest",
+  "dependencies": {
+    "@owdlevi/gatsby-theme-budapest": "^1.0.2",
+    "gatsby": "^2.19.17",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  }
+}
